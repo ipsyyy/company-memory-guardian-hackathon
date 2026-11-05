@@ -1,0 +1,15 @@
+description: Recent public LangChain GitHub issues
+columns:
+  - name: number
+    type: number
+  - name: title
+    type: string
+  - name: state
+    type: string
+  - name: updated_at
+    type: string
+  - name: url
+    type: string
+generators:
+  - name: fetch
+    inputs: []
